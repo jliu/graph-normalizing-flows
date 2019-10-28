@@ -1,0 +1,7 @@
+graph_nets
+tensorflow-probability==0.7.0
+python-louvain
+tensorflow-plot
+dm-sonnet==1.34
+sklearn
+networkx
